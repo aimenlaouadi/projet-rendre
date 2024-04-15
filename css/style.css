@@ -1,0 +1,66 @@
+
+main{
+  background: #151624;
+  color: white;
+}
+
+
+.footer{
+  background:#2b2e32;
+  color: white;
+  font-weight: bold;
+}
+
+.bottom{
+color: #66cccc ;
+font-weight: bold;
+}
+
+
+
+h1 {
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+}
+
+
+
+.couleurtop{
+  background: rgb(173, 220, 247);
+}
+
+.couleurfooter{
+  height: 400px;
+ 
+}
+
+a{
+  color:white;
+}
+
+.icone{
+  display: flex;
+  gap: 5% 5%;
+  padding-top: 10px;
+}
+
+.card{
+  background: #151624;
+ color:white;
+ border-color: #fff;
+}
+
+h2, h5, h1{
+  font-weight: bold;
+}
+
+.submit{
+border-color: #fff;
+}
+
+.espace{
+
+  line-height: 1.5rem;
+  
+}
