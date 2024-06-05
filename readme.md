@@ -84,6 +84,5 @@ J'ai créé un formulaire d'upload ou j'ai mis un emethod pos avec un fichier re
 
 ## Conection à la base de données
 Dans cette partie j'ai exporté ma bdd dans le dossier config.
-identifiant: hb_pe8_pdo
- mot de passe: GaxfRc/igjo6os*J
+
 
